@@ -1,4 +1,4 @@
 package interfaces;
 
-public interface ICriminoso extends IPessoa{
+public interface ICriminoso extends IPessoa {
 }
